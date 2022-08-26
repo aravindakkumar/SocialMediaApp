@@ -4,4 +4,4 @@ Full Stack Social Media Web Application
 
 FrontEnd on NETLIFY,
 BAckEnd on HERUKO,
-Databse MongoDB(NOSQL)
+Database MongoDB(NOSQL)
