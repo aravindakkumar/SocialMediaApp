@@ -1,5 +1,5 @@
 # SocialMediaApp
-# WEBSITE LIVE : https://comforting-torte-4d8b8f.netlify.app/
+# WEBSITE LIVE : https://stately-banoffee-95ad9e.netlify.app/
 Full Stack Social Media Web Application
 
 FrontEnd on NETLIFY,
