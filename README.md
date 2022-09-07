@@ -1,5 +1,5 @@
 # SocialMediaApp
-# WEBSITE LIVE : https://stately-banoffee-95ad9e.netlify.app/
+# WEBSITE LIVE : https://musical-frangipane-4085e1.netlify.app
 Full Stack Social Media Web Application
 
 FrontEnd on NETLIFY,
